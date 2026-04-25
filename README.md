@@ -41,4 +41,4 @@ _(These instructions assume the use of [Bottles in flatpak](https://github.com/b
 
 ### License
 
-The patch script is licensed under GPLv3. Please see [`LICENSE`](./LICENSE) for the full license text.
+The patch script is licensed under GPL-3.0-only. Please see [`LICENSE`](./LICENSE) for the full license text.
